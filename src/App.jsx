@@ -7,6 +7,8 @@ import friends from "./friends.json";
 import TransactionHistory from "../src/components/TransactionHistory/TransactionHistory";
 import transactions from "./transactions.json";
 
+import "modern-normalize";
+
 const App = () => {
   return (
     <>
